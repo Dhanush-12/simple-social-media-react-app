@@ -65,11 +65,11 @@ const DEFAULT_POST_LIST = [
   },
   {
     id: "2",
-    title: "Weird Post",
-    body: "Something Seomthing Something Something is happening in my back yard.",
+    title: "Test Post",
+    body: "This is just a test post with id 2",
     reactions: 13,
     userId: "user_3",
-    tags: ["timepass", "weird", "freeky"],
+    tags: ["test", "testing", "app"],
   },
 ];
 
